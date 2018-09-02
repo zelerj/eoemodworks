@@ -1,0 +1,13 @@
+WindowsStandalone
+PlayerPath?
+C:/Unity Projects/EdgeOfEternity/Edge Of Eternity/Assets/StreamingAssets/Mods/eoe_sample_mod/modcontent_levels
+SceneListBegin?
+Assets/SampleScene.unity
+SceneListEnd?
+a1745a63aaebc245b5d095f3d84b9534 com.unity.postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.Bloom
+fc61432802d627e9bad32dbeb93f774e com.unity.postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.PostProcessProfile
+c1791db8df7a6d30dc3a3e487bced78b com.unity.postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.PostProcessVolume
+09824dc52186816875b84af8b46b6c1c com.unity.postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.AmbientOcclusion
+ab0b082391b6a2be24658a32c1ba6a9f EOEModsToolkitd.dll:.CreatureWandererLoader
+f858da5b27c0d44ba8a27a29841ed100 EOEModsToolkitd.dll:.ExplorationMapMgr
+149339f3255f92e6b9aff135d4a7cf45 EOEModsToolkitd.dll:.ObjectDatabankBundle
