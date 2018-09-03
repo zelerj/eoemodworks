@@ -1,0 +1,1 @@
+powershell %~dp0_modkit_upgrade.ps1
