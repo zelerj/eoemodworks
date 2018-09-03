@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>SampleNewSpell_ModLocales</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>SampleSpell</string>
+      </key>
+      <value>
+        <string>Sample Spell</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SampleSpell_Description</string>
+      </key>
+      <value>
+        <string>Sample Spell Description</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Crystal_SampleSpell</string>
+      </key>
+      <value>
+        <string>Crystal for sample spell</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>SampleSpell</string>
+      </key>
+      <value>
+        <dateTime>2018-09-03T21:05:07.3722853+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SampleSpell_Description</string>
+      </key>
+      <value>
+        <dateTime>2018-09-03T21:05:26.2373284+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Crystal_SampleSpell</string>
+      </key>
+      <value>
+        <dateTime>2018-09-03T22:01:09.3418877+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

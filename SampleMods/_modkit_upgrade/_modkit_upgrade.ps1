@@ -29,17 +29,26 @@ public static class ProjectUpgrader
 
         foreach (string dirPath in Directory.GetDirectories(SourcePath, "*",
             SearchOption.AllDirectories))
-				Directory.CreateDirectory(dirPath.Replace(SourcePath, DestinationPath).Replace("\\", "/"));
+			{
+				try{
+					Directory.CreateDirectory(dirPath.Replace(SourcePath, DestinationPath).Replace("\\", "/"));
+				}catch(System.Exception){}
+			}
 
         foreach (string newPath in Directory.GetFiles(SourcePath, "*.*",
             SearchOption.AllDirectories))
-            File.Copy(newPath, newPath.Replace(SourcePath, DestinationPath).Replace("\\", "/"), true);
+			{
+				try{
+					File.Copy(newPath, newPath.Replace(SourcePath, DestinationPath).Replace("\\", "/"), true);
+				}catch(System.Exception){}
+			}
     }
 	
     public static void UpgradePathes(string Path)
     {
         File.Copy("jsons/BuiltinGamePathes.json", Path + "/Assets/BuiltinGamePathes.json", true);
         File.Copy("jsons/BuiltinScenePathes.json", Path + "/Assets/BuiltinScenePathes.json", true);
+		File.Copy("jsons/BuiltinGraphs.json", Path + "/Assets/BuiltinGraphs.json", true);
     }
 }
 "@
