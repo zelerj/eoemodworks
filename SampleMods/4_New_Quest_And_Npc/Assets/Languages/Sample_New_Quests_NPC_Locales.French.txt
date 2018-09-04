@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>Sample_New_Quests_NPC_Locales</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>NPCName</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>NPCName</string>
+      </key>
+      <value>
+        <dateTime>2018-09-04T14:16:20.262362+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

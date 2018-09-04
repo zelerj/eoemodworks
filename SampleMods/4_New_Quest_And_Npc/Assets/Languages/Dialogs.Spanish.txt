@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>Dialogs</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>/Sample_New_Quest_NPC/487af89b-660c-4086-acf3-ec3fef3f1858</string>
+      </key>
+      <value>
+        <string>fghfghfg</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Sample_New_Quest_NPC/508613ad-b0cc-418b-aeb9-af520695f3ea</string>
+      </key>
+      <value>
+        <string>fghfgh</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>/Sample_New_Quest_NPC/487af89b-660c-4086-acf3-ec3fef3f1858</string>
+      </key>
+      <value>
+        <dateTime>2018-09-04T16:38:42.3460496+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Sample_New_Quest_NPC/508613ad-b0cc-418b-aeb9-af520695f3ea</string>
+      </key>
+      <value>
+        <dateTime>2018-09-04T16:38:42.3430318+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

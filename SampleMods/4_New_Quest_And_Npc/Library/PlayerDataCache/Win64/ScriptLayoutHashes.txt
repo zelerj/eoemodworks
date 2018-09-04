@@ -1,0 +1,8 @@
+WindowsStandalone
+PlayerPath?
+G:/Unity Projects/EdgeOfEternity - 55/Assets/StreamingAssets/Mods/sample_new_quest_npc/modcontent_levels
+SceneListBegin?
+Assets/Scenes/SampleMap_NewQuestAndNPC.unity
+SceneListEnd?
+1e4b02eeac53e5b9e2056c158227be17 EOEModsToolkitd.dll:.NPCGenerator
+dfe28e5c3ee69d5a01ed0319ceb66592 EOEModsToolkitd.dll:.NPCInteract
