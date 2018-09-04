@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItemDBDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemDBDef>
+    <ID>853001</ID>
+    <Name>
+      <Id>NewItemSample_Locales.NewItemSample_ItemName</Id>
+    </Name>
+    <Description>
+      <Id>NewItemSample_Locales.NewItemSample_ItemDescription</Id>
+    </Description>
+    <Name_En>Armors/SampleNewItem</Name_En>
+    <CategoryFlags>1</CategoryFlags>
+    <MaxPerSlot>0</MaxPerSlot>
+    <ItemLevel>8</ItemLevel>
+    <Stat1>12</Stat1>
+    <Stat2>12</Stat2>
+    <Stat3>12</Stat3>
+    <Stat4>12</Stat4>
+    <Stat5>12</Stat5>
+    <Stat6>12</Stat6>
+    <Stat7>12</Stat7>
+    <Stat8>12</Stat8>
+    <Stat9>12</Stat9>
+    <Stat10>0</Stat10>
+    <Stat11>0</Stat11>
+    <Stat12>0</Stat12>
+    <PossibleModifierList />
+    <CurveActorRefID>0</CurveActorRefID>
+    <CurveActorStatsMult>0</CurveActorStatsMult>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <Value3>0</Value3>
+    <MaxStack>0</MaxStack>
+    <BuyPrice>12</BuyPrice>
+    <SellPrice>12</SellPrice>
+    <DisplayLoadMethod>Resources</DisplayLoadMethod>
+    <EffectType1>0</EffectType1>
+    <EffectType2>0</EffectType2>
+    <EffectType3>0</EffectType3>
+    <EffectDelay1>0</EffectDelay1>
+    <EffectDelay2>0</EffectDelay2>
+    <EffectDelay3>0</EffectDelay3>
+    <GraphScriptName>None</GraphScriptName>
+    <GraphLoadMethod>Resources</GraphLoadMethod>
+    <ItemType>7</ItemType>
+    <RequirementFlags>0</RequirementFlags>
+    <StartLevel>0</StartLevel>
+    <MaxLevel>0</MaxLevel>
+    <ConditionId>0</ConditionId>
+    <RecipeId>0</RecipeId>
+    <SpecialFlags>0</SpecialFlags>
+  </ItemDBDef>
+</ArrayOfItemDBDef>

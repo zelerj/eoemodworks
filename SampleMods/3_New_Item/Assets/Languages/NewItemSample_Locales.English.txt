@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>NewItemSample_Locales</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>NewItemSample_ItemName</string>
+      </key>
+      <value>
+        <string>The armor of thousands truth</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>NewItemSample_ItemDescription</string>
+      </key>
+      <value>
+        <string>This ancient armor was lost in space-time until someone did some code and modding to bring it back again</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>NewItemSample_ItemName</string>
+      </key>
+      <value>
+        <dateTime>2018-09-04T08:33:41.3131642+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>NewItemSample_ItemDescription</string>
+      </key>
+      <value>
+        <dateTime>2018-09-04T08:34:27.8114773+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

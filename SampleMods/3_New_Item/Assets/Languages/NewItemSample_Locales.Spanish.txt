@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>NewItemSample_Locales</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>NewItemSample_ItemName</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>NewItemSample_ItemDescription</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>NewItemSample_ItemName</string>
+      </key>
+      <value>
+        <dateTime>2018-09-04T08:32:51.1429172+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>NewItemSample_ItemDescription</string>
+      </key>
+      <value>
+        <dateTime>2018-09-04T08:33:58.023085+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ModDescription xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ModID>sample_new_spell</ModID>
+  <ModName>Sample Mod New Spell</ModName>
+  <ModLoadOrder>0</ModLoadOrder>
+  <ModTextDescription>Simple New Spell</ModTextDescription>
+  <ModShortDescription>Simple New Spell</ModShortDescription>
+  <ModAuthor>Kaldorei</ModAuthor>
+  <ModVersion>0.1</ModVersion>
+  <IsStandaloneAdventureMod>false</IsStandaloneAdventureMod>
+  <StandaloneAdventureStartingScene />
+</ModDescription>
