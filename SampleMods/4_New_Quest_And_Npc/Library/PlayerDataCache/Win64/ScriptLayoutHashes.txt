@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-G:/Unity Projects/EdgeOfEternity - 55/Assets/StreamingAssets/Mods/sample_new_quest_npc/modcontent_levels
+G:/Unity Projects/EdgeOfEternity - 55/Assets/StreamingAssets/Mods/sample_new_quest_npc/modcontent_levels_sample_new_quest_npc
 SceneListBegin?
 Assets/Scenes/SampleMap_NewQuestAndNPC.unity
 SceneListEnd?

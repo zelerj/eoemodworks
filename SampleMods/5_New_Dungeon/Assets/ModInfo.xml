@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ModDescription xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ModID>sample_dungeon_mod</ModID>
+  <ModName>Sample Dungeon Mod</ModName>
+  <ModLoadOrder>0</ModLoadOrder>
+  <ModTextDescription>Default Mod Description</ModTextDescription>
+  <ModShortDescription>Default Mod Long Description</ModShortDescription>
+  <ModAuthor>Kaldorei</ModAuthor>
+  <ModVersion>0.1</ModVersion>
+  <IsStandaloneAdventureMod>false</IsStandaloneAdventureMod>
+  <StandaloneAdventureStartingScene />
+</ModDescription>

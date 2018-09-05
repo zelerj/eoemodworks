@@ -1,0 +1,13 @@
+WindowsStandalone
+PlayerPath?
+G:/Unity Projects/EdgeOfEternity - 55/Assets/StreamingAssets/Mods/sample_dungeon_mod/modcontent_levels_sample_dungeon_mod
+SceneListBegin?
+Assets/Scenes/Sample_Dungeon01.unity
+Assets/Scenes/Sample_Dungeon_AstryanContinentConnector.unity
+SceneListEnd?
+32065aa2b3a48a1dded18b7f0a0d4b41 EOEModsToolkitd.dll:.AreaTeleport
+ab0b082391b6a2be24658a32c1ba6a9f EOEModsToolkitd.dll:.CreatureWandererLoader
+f858da5b27c0d44ba8a27a29841ed100 EOEModsToolkitd.dll:.ExplorationMapMgr
+89d92a55cbce9251f22910a17dd9d3e6 EOEModsToolkitd.dll:.ExplorationSpawnPoint
+4d49727b2684ac08bc23278b4b137659 EOEModsToolkitd.dll:.GroupStrategyAssign
+149339f3255f92e6b9aff135d4a7cf45 EOEModsToolkitd.dll:.ObjectDatabankBundle

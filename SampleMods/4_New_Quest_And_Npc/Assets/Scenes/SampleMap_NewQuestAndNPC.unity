@@ -198,7 +198,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1383499319}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.512829, y: -3.0479832, z: -2.0640488}
+  m_LocalPosition: {x: -4594.1, y: 804, z: -9969.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 160894162}
@@ -220,7 +220,7 @@ MonoBehaviour:
     NPCModel: 0
     NPCGender: 0
     HairID: 1
-    FaceID: 0
+    FaceID: 1
     SkinVariant: {r: 1, g: 1, b: 1, a: 1}
     HairVariant: {r: 1, g: 1, b: 1, a: 1}
     OutfitVariant1: {r: 1, g: 1, b: 1, a: 1}

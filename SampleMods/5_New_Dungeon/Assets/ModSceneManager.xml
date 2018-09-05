@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfModSceneManagerDescription xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ModSceneManagerDescription>
+    <SceneAlterationMethod>Additive</SceneAlterationMethod>
+    <AffectedSceneMethod>Resources</AffectedSceneMethod>
+    <AffectedScenePath>Assets/EOE/GameMaps/Chapters/Chapter I/AstryanContinent/AstryanContinent.unity</AffectedScenePath>
+    <ReplacementMethod>AssetBundlesModKit</ReplacementMethod>
+    <ReplacementPath>Sample_Dungeon_AstryanContinentConnector</ReplacementPath>
+    <ReplacementModID>sample_dungeon_mod</ReplacementModID>
+  </ModSceneManagerDescription>
+</ArrayOfModSceneManagerDescription>

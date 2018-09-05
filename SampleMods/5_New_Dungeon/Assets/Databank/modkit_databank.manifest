@@ -1,0 +1,148 @@
+ManifestFileVersion: 0
+CRC: 246671293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eadc8c3d71bde263ff0c65b4ae20e090
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ba0074734e3fbbab6f917433491318f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37e40fd4221d9644aae02fdcd2f11ba6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634b90ea2d99fee46b2dc08b1a3069d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c940b9c87e5647a4399bb0efdcdc4ecd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5e46384895223744bde7b5100d41748, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 226
+  Script: {instanceID: 0}
+- Class: 227
+  Script: {instanceID: 0}
+- Class: 228
+  Script: {instanceID: 0}
+Assets:
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_Towerhouse.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_LittleWoodPlank01.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/M_NormalDoor.prefab
+- Assets/EOE/Environment/HexaRock/Prefab/HexaRockBig.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Technomage.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_Littlerock01.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/PREF_Corridor_Floor
+  (1).prefab
+- Assets/EOE/Environment/Rocks/Rock_Long_A.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_CircleWindow01.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor2_M.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/Spaceship_Floor.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_AddonHouse.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/Spaceship_Walls.prefab
+- Assets/EOE/Environment/Rocks/Rock_Long_B.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Pipe.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_CircleWindow02.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_LittleWindow01.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/Kit_ROOM1.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/Kit_Battle_Room.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor_S_Simple2.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_BigRock.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/Kit_ROOM4.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor_Pillar.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/LittleSolarPanel.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/Kit_ROOM3.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_LittleWindow02.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Windows.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_AddonHouse 1.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_BorderwoodWall.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor3_Corner.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/MetalSheet02.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_Littlerock02.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_NormalHouse.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_RichWindow02.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_BidgeHouse.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_Poutre01.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/MetalSheet01.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_WoodWall.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/M_BackDoor.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/pCube93.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/Spaceship_BigRoom.prefab
+- Assets/EOE/Environment/HexaRock/Prefab/HexaRockLittle.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_RichWindow01.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor_Window_R.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Plug02.prefab
+- Assets/EOE/Environment/Rocks/Rock_Cliff_A.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_InnPanel.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_WoodPanel.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/GarageDoor.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_Support.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/SM_WALL4X4.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor_Window_L.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor3_L.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor_Junction.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor_S_simple.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor2_L.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor1_M.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_NormalHouse02.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/Kit_ROOM2.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Pipe02.prefab
+- Assets/EOE/Environment/Rocks/Rock_Block_A.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Plug.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/SideBuilding01.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_WoodPlank.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Building02.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_Poutre03.prefab
+- Assets/EOE/Environment/Rocks/Rock_Block_B.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Building01.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_WoodTerrasse.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/ExteriorBroke/Spaceship_BigRoom.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_AddonHouse02.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/MainSolarPanel.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Bridge.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_LargeHouse.prefab
+- Assets/EOE/Environment/Asset by zone/Inn/Pref/Pref_LittleWoodPlank02.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_Poutre02.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/Spaceship_Roof.prefab
+- Assets/EOE/Environment/HexaRock/Prefab/HexaRockMiddle.prefab
+- Assets/EOE/Environment/Asset by zone/Spaceship_Interior/Prefab/KITS/PREF_Corridor1_L.prefab
+- Assets/EOE/Environment/Rocks/Rock_Cliff_B.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/Pref_Cheminee.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/M_MetalDoor.prefab
+- Assets/EOE/Environment/Asset by zone/Technomage/Prefab/Aeration.prefab
+- Assets/EOE/Environment/Asset by zone/Herelsor Village/Prefab/M_NormalDoor02.prefab
+Dependencies: []

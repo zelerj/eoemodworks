@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 67075099
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: modkit_databank
+      Dependencies: {}
