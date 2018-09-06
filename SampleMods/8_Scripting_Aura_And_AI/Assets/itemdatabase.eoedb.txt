@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItemDBDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemDBDef>
+    <ID>853005</ID>
+    <Name>
+      <Id>SampleNewSpell_ModLocales.Crystal_SampleSpell</Id>
+    </Name>
+    <Description>
+      <Id>SampleNewSpell_ModLocales.Crystal_SampleSpell</Id>
+    </Description>
+    <Name_En>Crystals/SampleCrystal</Name_En>
+    <CategoryFlags>16</CategoryFlags>
+    <MaxPerSlot>0</MaxPerSlot>
+    <ItemLevel>0</ItemLevel>
+    <Stat1>0</Stat1>
+    <Stat2>0</Stat2>
+    <Stat3>0</Stat3>
+    <Stat4>0</Stat4>
+    <Stat5>0</Stat5>
+    <Stat6>0</Stat6>
+    <Stat7>0</Stat7>
+    <Stat8>0</Stat8>
+    <Stat9>0</Stat9>
+    <Stat10>0</Stat10>
+    <Stat11>0</Stat11>
+    <Stat12>0</Stat12>
+    <PossibleModifierList />
+    <CurveActorRefID>0</CurveActorRefID>
+    <CurveActorStatsMult>0</CurveActorStatsMult>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <Value3>0</Value3>
+    <MaxStack>0</MaxStack>
+    <BuyPrice>0</BuyPrice>
+    <SellPrice>0</SellPrice>
+    <DisplayLoadMethod>Resources</DisplayLoadMethod>
+    <EffectType1>1</EffectType1>
+    <EffectType2>0</EffectType2>
+    <EffectType3>0</EffectType3>
+    <EffectDelay1>0</EffectDelay1>
+    <EffectDelay2>0</EffectDelay2>
+    <EffectDelay3>0</EffectDelay3>
+    <GraphLoadMethod>Resources</GraphLoadMethod>
+    <ItemType>23</ItemType>
+    <RequirementFlags>0</RequirementFlags>
+    <StartLevel>0</StartLevel>
+    <MaxLevel>0</MaxLevel>
+    <ConditionId>0</ConditionId>
+    <RecipeId>0</RecipeId>
+    <PossibleUpgradeModifierList />
+    <SpecialFlags>0</SpecialFlags>
+    <SpellsContained>
+      <string>853005</string>
+    </SpellsContained>
+  </ItemDBDef>
+</ArrayOfItemDBDef>

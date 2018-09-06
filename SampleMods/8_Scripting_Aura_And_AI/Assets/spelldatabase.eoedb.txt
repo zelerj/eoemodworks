@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSpellDBDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SpellDBDef>
+    <ID>853005</ID>
+    <Path>Magic</Path>
+    <Name>
+      <Id>SampleAuraScript_ModLocales.SampleSpell</Id>
+    </Name>
+    <Description>
+      <Id>SampleAuraScript_ModLocales.SampleSpell_Description</Id>
+    </Description>
+    <Name_En>New Spell</Name_En>
+    <ScriptName />
+    <GraphScriptName>SampleNewSpell</GraphScriptName>
+    <GraphLoadMethod>AssetBundlesModKit</GraphLoadMethod>
+    <GraphLoadModOrDLCID>sample_aura_scripting</GraphLoadModOrDLCID>
+    <Icon />
+    <CaseRange>1</CaseRange>
+    <BaseTarget>3</BaseTarget>
+    <BaseElement>16</BaseElement>
+    <CastLoadTime>0</CastLoadTime>
+    <MPCost>10</MPCost>
+    <TargettingDead>false</TargettingDead>
+    <AllowedActorMask>2</AllowedActorMask>
+    <LockUI>false</LockUI>
+    <SpecialFlags>0</SpecialFlags>
+  </SpellDBDef>
+</ArrayOfSpellDBDef>
