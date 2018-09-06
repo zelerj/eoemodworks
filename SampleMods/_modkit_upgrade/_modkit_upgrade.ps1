@@ -59,4 +59,6 @@ Add-Type -TypeDefinition $source
 [ProjectUpgrader]::UpgradePath("../2_New_Spell")
 [ProjectUpgrader]::UpgradePath("../3_New_Item")
 [ProjectUpgrader]::UpgradePath("../4_New_Quest_And_Npc")
+[ProjectUpgrader]::UpgradePath("../5_New_Dungeon")
+[ProjectUpgrader]::UpgradePath("../7_New_Playable_Character")
 [Environment]::Exit(1)

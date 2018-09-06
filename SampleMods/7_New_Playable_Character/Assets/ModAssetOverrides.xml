@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfModOverrideAssetDescription xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ModOverrideAssetDescription>
+    <OrigMethod>Resources</OrigMethod>
+    <OrigPath>Entities/Daryon/Daryon</OrigPath>
+    <ReplacementMethod>AssetBundlesModKit</ReplacementMethod>
+    <ReplacementPath>NeutralModel_Prefab</ReplacementPath>
+    <ReplacementModID>sample_mod_model_swap</ReplacementModID>
+  </ModOverrideAssetDescription>
+</ArrayOfModOverrideAssetDescription>

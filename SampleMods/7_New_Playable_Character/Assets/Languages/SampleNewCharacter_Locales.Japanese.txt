@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>SampleNewCharacter_Locales</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>NewCharacterName</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>NewCharacterName</string>
+      </key>
+      <value>
+        <dateTime>2018-09-06T09:25:33.8550619+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfActorDBDef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ActorDBDef>
+    <ID>80001</ID>
+    <Faction>0</Faction>
+    <Name>
+      <Id>SampleNewCharacter_Locales.NewCharacterName</Id>
+    </Name>
+    <LootSetID>0</LootSetID>
+    <UseParentForStatsCurves>true</UseParentForStatsCurves>
+    <ParentActor>101</ParentActor>
+    <InheritAtkMultiplier>1.2</InheritAtkMultiplier>
+    <InheritDefMultiplier>0.9</InheritDefMultiplier>
+    <InheritMagDefMultiplier>0.8</InheritMagDefMultiplier>
+    <InheritHasteMultiplier>1.1</InheritHasteMultiplier>
+    <InheritMagHasteMultiplier>1.1</InheritMagHasteMultiplier>
+    <InheritVigMultiplier>1</InheritVigMultiplier>
+    <InheritMagMultiplier>0.7</InheritMagMultiplier>
+    <InheritSpeedMultiplier>1</InheritSpeedMultiplier>
+    <InheritHPMultiplier>1.3</InheritHPMultiplier>
+    <InheritMPMultiplier>0.7</InheritMPMultiplier>
+    <AllowedEquipementMask>2696322</AllowedEquipementMask>
+    <BattleFlags>0</BattleFlags>
+    <MaxLevel>0</MaxLevel>
+    <UseParentForSkillbook>false</UseParentForSkillbook>
+    <Skillbook />
+    <ExplorationAIType>ClassicPursue</ExplorationAIType>
+    <CustomExplorationAILoadingMethod>Resources</CustomExplorationAILoadingMethod>
+    <CombatAIType>Warrior</CombatAIType>
+    <CustomCombatAILoadingMethod>Resources</CustomCombatAILoadingMethod>
+    <MeshExtensionLoadingMethod>Resources</MeshExtensionLoadingMethod>
+    <MeshExtensionPath>Entities/Extensions/Daryon/Daryon</MeshExtensionPath>
+    <GameMeshObjectPath>NeutralModel_Prefab</GameMeshObjectPath>
+    <GameMeshLoadingMethod>AssetBundlesModKit</GameMeshLoadingMethod>
+    <GameMeshDLCIDOrModID>sample_new_playable_character</GameMeshDLCIDOrModID>
+  </ActorDBDef>
+</ArrayOfActorDBDef>
