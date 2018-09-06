@@ -8,7 +8,7 @@
     </Name>
     <LootSetID>0</LootSetID>
     <UseParentForStatsCurves>true</UseParentForStatsCurves>
-    <ParentActor>101</ParentActor>
+    <ParentActor>1</ParentActor>
     <InheritAtkMultiplier>1.2</InheritAtkMultiplier>
     <InheritDefMultiplier>0.9</InheritDefMultiplier>
     <InheritMagDefMultiplier>0.8</InheritMagDefMultiplier>
