@@ -49,6 +49,7 @@ public static class ProjectUpgrader
         File.Copy("jsons/BuiltinGamePathes.json", Path + "/Assets/BuiltinGamePathes.json", true);
         File.Copy("jsons/BuiltinScenePathes.json", Path + "/Assets/BuiltinScenePathes.json", true);
 		File.Copy("jsons/BuiltinGraphs.json", Path + "/Assets/BuiltinGraphs.json", true);
+		File.Copy("jsons/BuiltinDatabases.json", Path + "/Assets/BuiltinDatabases.json", true);
     }
 }
 "@
