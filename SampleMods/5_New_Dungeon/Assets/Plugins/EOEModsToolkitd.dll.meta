@@ -1,12 +1,11 @@
 fileFormatVersion: 2
 guid: a0d551bff6831a544a58dab218cf5041
-timeCreated: 1516807536
-licenseType: Pro
 PluginImporter:
   externalObjects: {}
   serializedVersion: 2
   iconMap: {}
-  executionOrder: {}
+  executionOrder:
+    Tenkoku.Core.TenkokuModule: 1000
   isPreloaded: 0
   isOverridable: 0
   platformData:
